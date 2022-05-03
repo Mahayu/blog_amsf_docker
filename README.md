@@ -1,7 +1,2 @@
-# AMSF in Docker Minimal Working Example
-
-Runing [Almace Scaffolding](https://sparanoid.com/lab/amsf/) in Docker:
-
-```bash
-docker compose up
-```
+#  说明
+用于存放docker的相关配置和覆盖文章

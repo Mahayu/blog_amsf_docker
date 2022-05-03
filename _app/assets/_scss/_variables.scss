@@ -1,0 +1,21 @@
+//
+// Sass variables customization
+// -----------------------------------------------------------------------------
+// All Sass vaiables in `_variables.scss` can be overwritten below.
+// Due to the limitation of Sass, I don't have variable hoisting feature like
+// native CSS or Less at hand, so it's dirty to have two user defined
+// stylesheets, hope for native color manipulation in the future.
+//
+// - This file should contain only Sass variables defined in theme Curtana.
+// - CSS varaibles customization should be defined in `_user.scss`.
+$breakpoint-lg: 1600px !default;
+$breakpoint-md: 1080px !default;
+$breakpoint-sm: 640px !default;
+$breakpoint-xs: 400px !default;
+:root {
+    // Color - link color
+    --link-color-h: 194 !important;
+    --link-color-s: 9% !important;
+    --link-color-l: 45% !important;
+    --link-color-hsl: var(--link-color-h), var(--link-color-s), var(--link-color-l);
+}

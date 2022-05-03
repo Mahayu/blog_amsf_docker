@@ -1,5 +1,11 @@
-- title: __home__
+- title: Home
   url:   /
+
+- title: Works
+  url :  /works/
+
+- title: Misc
+  url : /misc/
 
 - title: News
   url:   /news/

@@ -2,20 +2,13 @@
 layout: page
 title: About
 permalink: /about/
-desc: 示例頁面・サンプルページ・Example Page
+desc: 关于·about
 ---
 
-This is an example About page.
+我是Mahayu。
 
-Sparanoid is a design studio operated by Tunghsiao Liu. You can ping me on [Twitter](https://twitter.com/tunghsiao) or send correspondence to [t@sparanoid.com](mailto:t@sparanoid.com).
+我投入于笔记本产品的分析与推荐，其他时间还会写杂记什么的。
 
-## Colophon
+笔记本的相关内容发布于[知乎-现梦](https://www.zhihu.com/people/project-Sylphid)，这里就放一些与笔记本没太大关系的杂记。
 
-[AMSF](https://sparanoid.com/lab/amsf/) ([Source](https://github.com/sparanoid/sparanoid.com)) -
-[GitHub](https://github.com/) -
-[CloudFront](https://aws.amazon.com/cloudfront/) -
-[Textmate](https://macromates.com/)
-
-All posts are &copy; Sparanoid, Inc., all rights reserved.
-
-*[AMSF]: Almace Scaffolding
+希望这个杂物堆积的地方能够到你，无论是文章本身还是其他什么布局配色之类的。
