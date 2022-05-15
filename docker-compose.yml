@@ -10,9 +10,9 @@ x-defaults: &defaults
     - ./_app/assets/img:/app/_app/assets/img
     - ./_app/assets/_scss:/app/_app/assets/_scss
     - ./_config.yml:/app/_config.yml
-  ports:
-    - "4321:4321"
-    - "35729:35729"
+  #ports:
+    #- "4321:4321"
+    #- "35729:35729"
 
 services:
   amsf:
