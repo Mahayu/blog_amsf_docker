@@ -2,6 +2,17 @@
 layout: post
 title: Quote Reader
 category: works
+css: |
+  h1 {
+    margin-bottom : 20px;
+    font-size: 28px
+  }
+  p {
+    font-size : 20px;
+  }
+  .content ul li{
+    font-size : 20px;
+  }
 ---
 
 这大概是很久之前的一个想法了……可以追溯到 2020 年吧，当时看到一些爽哥语录（不），就想着能不能做一个语录提取器出来。
