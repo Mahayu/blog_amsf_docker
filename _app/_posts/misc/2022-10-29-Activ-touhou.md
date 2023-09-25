@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Activ in Touhou
+title: ActivZJ02 in Touhou
 category: misc
 scheme-text: "#666c7b"
-scheme-code: "#EE2746"
+scheme-code: "#c5708b"
 scheme-bg: "#F7F7F7"
 scheme-list-color: "code"
 ---
