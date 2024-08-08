@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ActivZJ02 in Touhou
+title: zj02 x Th
 category: misc
 scheme-text: "#666c7b"
 scheme-code: "#c5708b"

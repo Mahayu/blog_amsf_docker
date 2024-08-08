@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Days after '23 & ASh11.9
+title: Days after '23 & sh 11.75
 category: misc
 scheme-text: "#666c7b"
 scheme-code: "#5F7582"

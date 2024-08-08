@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ActivSH11 in Touhou
+title: sh11 x Th
 category: misc
 scheme-text: "#666c7b"
 scheme-code: "#e80cd2"
