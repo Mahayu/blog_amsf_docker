@@ -31,18 +31,20 @@ css: |
 
 这次活动因为身体原因不能享受到全部乐趣，所以就用特别长的Repo代偿了。
 
-- [Stage 1 东方 风绒塔](#stage-1-东方-风绒塔)
+- [Stage 1 东方风绒塔](#stage-1-东方风绒塔)
   - [奇妙军训大逼队](#奇妙军训大逼队)
   - [Insert Coin](#insert-coin)
   - [Sound Cleave](#sound-cleave)
   - [Meditation Nostalgia Set](#meditation-nostalgia-set)
   - [Cleaving Sonic, Greater](#cleaving-sonic-greater)
   - [Everlasting Eve](#everlasting-eve)
+- [Stage 2 魅知展会](#stage-2-魅知展会)
+- [Stage 3 幻奏](#stage-3-幻奏)
 
 
 ***
 
-# Stage 1 <br>东方 <br>风绒塔
+# Stage 1 <br>东方<br>风绒塔
 
 ## 奇妙军训大逼队
 
@@ -114,6 +116,8 @@ mineko压轴的一首果然是娘娘的那首曲子，说实话我特别喜欢�
 
 哭
 
+![alt NO](img/blog_img/240206/marasy.jpg)
+
 NOよ いらないわ
 
 .png
@@ -138,6 +142,18 @@ NOよ いらないわ
 星を廻せ月より速く
 😭😭😭😭😭😭😭😭
 
+禁止星星转.png
 
+后面看到yukina在二楼左侧拍了好几张照片233
 
-finis（live的repo结尾、展会和幻奏改天写，有点卡文了
+# Stage 2 魅知展会
+
+然后就是第二天通常的展会了。
+
+稍微补充了一下挂件，这会还特意买了些士气章来着，之前在无关车万的群群聊看到给种草了。让整了几张签名碟，拍了几个照片就撤退了~~（当天好多荷取，我很满足）~~
+
+整理战利品好烦.jpg
+
+# Stage 3 幻奏
+
+先坑着，等碟子来了再说（
