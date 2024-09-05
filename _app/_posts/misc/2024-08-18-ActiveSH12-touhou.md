@@ -9,7 +9,6 @@ scheme-list-color: "code"
 
 css: |
   h1 {
-    margin-bottom : -40px;
     font-size: 28px
   }
   h2{
@@ -115,8 +114,6 @@ mineko压轴的一首果然是娘娘的那首曲子，说实话我特别喜欢�
 表情包
 
 哭
-
-![alt NO](img/blog_img/240206/marasy.jpg)
 
 NOよ いらないわ
 
