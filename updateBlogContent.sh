@@ -42,8 +42,9 @@ fi
 
 echo "[$(date '+%Y-%m-%d %H:%M:%S')] 部署完成" | tee -a $LOG_FILE
 
-# 日志文件处理
+# 日志文件处理，考虑到日志不会太大，单个128KiB文件应该足够。
 LOG_SIZE=$(du -k "$LOG_FILE" | cut -f1)
-if [ "$LOG_SIZE" -gt 64 ]; then
-    echo "日志文件大于64KiB，正在压缩..."
+if [ "$LOG_SIZE" -gt 128 ]; then
+    echo "日志文件大于128KiB，正在压缩..."
+    gzip -c "$LOG_FILE" > "$LOG_FILE.gz" && rm "$LOG_FILE"
 fi
