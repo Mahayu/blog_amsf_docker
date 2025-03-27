@@ -19,7 +19,7 @@ fi
 # 执行部署流程
 {
     echo "1. 启动Docker容器..."
-    docker compose up -d || exit 1
+    docker compose up || exit 1
 
     echo "2. 复制生成内容到临时目录..."
     docker cp $CONTAINER_NAME:$SOURCE_DIR/. $TEMP_DIR || exit 1
@@ -31,7 +31,7 @@ fi
     echo "目标目录: $TARGET_DIR"
     echo ""
     echo "博客文章内容:"
-    find $TARGET_DIR -type f \( -name "*.html" -o -name "*.md" \) -exec bash -c 'printf "%-30s    %s\n" "$(basename "{}")" "$(date -r "{}" "+%Y-%m-%d %H:%M")"' \;
+    find $TARGET_DIR -type f \( -name "*.html" -o -name "*.md" \)
 
     echo "5. 重新加载Nginx..."
     nginx -s reload || exit 1
@@ -46,4 +46,4 @@ echo "[$(date '+%Y-%m-%d %H:%M:%S')] 部署完成" | tee -a $LOG_FILE
 LOG_SIZE=$(du -k "$LOG_FILE" | cut -f1)
 if [ "$LOG_SIZE" -gt 64 ]; then
     echo "日志文件大于64KiB，正在压缩..."
-    gzip -c "$LOG_FILE" > "$LOG_FILE.gz" && rm "$LOG_FILE"
+fi
